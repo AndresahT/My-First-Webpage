@@ -1,0 +1,10 @@
+body
+{
+  background-image: url("https://s.yimg.com/ny/api/res/1.2/uGmIzwWurqWq3PJhjESxFg--~A/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAwO2lsPXBsYW5l/https://img.huffingtonpost.com/asset/5c3614792400003500c4665d.jpg");
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
